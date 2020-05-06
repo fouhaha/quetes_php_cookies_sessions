@@ -26,9 +26,4 @@ if (empty($_SESSION)) {
         <?php } ?>
     </div>
 </section>
-<section>
-    <div class="homepage-div">
-        <a href="index.php" class="btn btn-primary homepageButton">Home Page</a>
-    </div>
-</section>
 <?php require 'inc/foot.php'; ?>
